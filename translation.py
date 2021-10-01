@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , \n You can also Convert File To Video /n It has Permanent Thumbnail And Custom Caption support!</b> \n
 
-<b>. Give your feedback about te bot: @ShowcasE_Feedback @</b> \n <b> For more of our Bots: https://t.me/bots_showcase</b>
+<b>. Give your feedback about te bot: @ShowcasE_Feedback @</b>
 """
 
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
